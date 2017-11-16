@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Generic Instruction Page</title>
+</head>
+<body>
+	<h2>Relevant Course Outcomes:</h2>
+	<hr>
+	<h2>Overview</h2>
+	<p>In this activity, you will [specify deliverable/action to be taken] in
+	[time period, if any]. Students must [action to be taken] for [indicate the
+	audience] that [purpose of activity]. Your instructor will [indicate
+	instructor’s role in this activity].</p>
+	<h2>Instructions</h2>
+	<p>To successfully complete the [Name of Activity], carefully follow these
+	[criteria/steps]:</p>
+	<ol>
+		<li>[Any prescribed method or process for completing activity?]</li>
+		<li>[Any tool requirements? If any, indicate tutorials or other helpful
+		resources.]</li>
+		<li>[Any demonstration of mastery for specific topics or competencies?]</li>
+		<li>[Any submission/formatting requirements?]</li>
+	</ol>
+	<h3>Grading Rubric (You may also combine this with the submission or other
+	requirements specified above)</h3>
+	<p>You will be graded using the criteria below [include criteria and
+	levels].</p>
+</body>
+</html>
